@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 @author: Alexandre Calaça
-You can reach me at alexcalaca@gmail.com
 """
 
 """
